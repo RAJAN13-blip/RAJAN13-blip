@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajan</h1>
 <h3 align="center">An undergraduate at BITS Pilani.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajan13-blip&label=Profile%20views&color=0e75b6&style=flat" alt="rajan13-blip" /> </p>
 
