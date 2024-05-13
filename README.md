@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Rajan</h1>
-<h3 align="center">An undergraduate at BITS Pilani.</h3>
+<h3 align="center">A final year undergraduate at BITS Pilani.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajan13-blip&label=Profile%20views&color=0e75b6&style=flat" alt="rajan13-blip" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajan13-blip" alt="rajan13-blip" /></a> </p>
 
-- 🔭 I’m currently working on **intersection of machine learning and non-linear dynamics and random matrix methods.**
+- 🔭 I’m currently interested in **agentic frameworks and cross-discipline methods in machine learning**
 
-- 🌱 I’m currently learning **about random matrix theory and interested in learning theory.**
+- 🌱 I’m currently learning **about GflowNets, Large language models, KANs**
 
 - 📫 How to reach me **rajansahu10@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HgSErV92qPlLBnFzjT4m2OKLqJP6jISJ/view?usp=share_link](https://drive.google.com/file/d/1HgSErV92qPlLBnFzjT4m2OKLqJP6jISJ/view?usp=share_link)
+- 📄 Know about my experiences [over here](https://drive.google.com/file/d/1A6Oe4eBmkPwzSLt8Wp6-IkzbGYpA3dWo/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
